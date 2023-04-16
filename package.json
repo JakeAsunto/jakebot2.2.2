@@ -10,7 +10,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/JakeAsunto/jakebot2.2.2.git"
+		"url": "https://github.com/JakeAsunto/jakebot2.2.2.git"
 	},
 	"keywords": [
 		"bot",
@@ -35,9 +35,9 @@
 	"dependencies": {
 		"@maihuybao/fca-unofficial": "^1.3.13-2",
 		"@miraipr0ject/assets": "",
-                "@discordjs": "",
+                "@discordjs": "latest",
 		"@replit/database": "^2.0.1",
-                "@supercharge/strings": "",
+                "@supercharge/strings": "latest",
                 "adm-zip": "",
                 "aes-js": "",
 		"akaneko": "^5.2.2",
